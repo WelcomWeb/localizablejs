@@ -59,3 +59,5 @@ LocalizableJs is a small library to enable localized web pages, marked up in the
 	</html>
 
 Happy coding!
+
+[![githalytics.com alpha](https://cruel-carlota.pagodabox.com/556eec1d7e717b681375098971bea39a "githalytics.com")](http://githalytics.com/WelcomWeb/localizablejs)
