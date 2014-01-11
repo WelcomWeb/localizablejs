@@ -18,7 +18,8 @@
     }
 
     /*
-     * Constructor, that takes a full dictionary as parameter
+     * Constructor, that takes a full dictionary as parameter and an
+     * optional language to use. The default language is set to 'en-US'.
      *
      * An example of such a dictionary:
      * var dictionary = {
@@ -34,6 +35,7 @@
      * };
      *
      * @param dictionary {Object} A dictionary object
+     * @param defaultLanguage {String} A language to use for the dictionary
      * @returns {Void}
      */
     var localizer = function (dictionary, defaultLanguage) {
