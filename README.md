@@ -2,7 +2,7 @@ LocalizableJs
 =============
 
 ## About
-LocalizableJs is a small library to enable localized web pages, marked up in the DOM tree. It's fast and leaves a small footprint, and translations are instant. Please see the [example files](http://www.github.com) for a demo.
+LocalizableJs is a small library to enable localized web pages, marked up in the DOM tree. It's fast and leaves a small footprint, and translations are instant. Please see the [example files](https://github.com/WelcomWeb/localizablejs/tree/master/examples) for a demo.
 
 ## Example
 
