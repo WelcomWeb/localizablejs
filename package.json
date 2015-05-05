@@ -1,0 +1,19 @@
+{
+  "name": "localizablejs",
+  "version": "2.0.0",
+  "description": "A small library to handle translation and localization",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WelcomWeb/localizablejs.git"
+  },
+  "author": "Björn Wikström",
+  "license": "Apache License 2.0",
+  "bugs": {
+    "url": "https://github.com/WelcomWeb/localizablejs/issues"
+  },
+  "homepage": "https://github.com/WelcomWeb/localizablejs#readme"
+}
