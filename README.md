@@ -11,7 +11,7 @@ LocalizableJs supports CommonJS, AMD or simple script tag injection. It's also a
 or:
 
 [Download development version](https://raw.githubusercontent.com/WelcomWeb/localizablejs/master/dist/localizablejs-2.0.js) (10KB)
-[Download minified production version](https://raw.githubusercontent.com/WelcomWeb/localizablejs/master/dist/localizable-2.0.min.js) (2KB)
+[Download minified production version](https://raw.githubusercontent.com/WelcomWeb/localizablejs/master/dist/localizablejs-2.0.min.js) (2KB)
 
 ### Usage
 LocalizableJs looks for DOM nodes with the default attribute name of `data-translate-key`. The value of that attribute should match a translation key in your dictionaries. If an attribute by the name `data-translate-params` is available, the translation can have formatting parameters.
