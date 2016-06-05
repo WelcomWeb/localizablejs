@@ -93,7 +93,7 @@ LocalizableJs also ships as a React component, with attached listeners for langu
 		
 			return (
 				<div>
-					<LocalizableElement translationKey={"WelcomeMessage"} parameters={params} />
+					<LocalizableElement translationKey={'WelcomeMessage'} parameters={params} />
 				</div>
 			);
 			
